@@ -2,6 +2,7 @@
 
 ## XAI: AI vs REAL Image - Resnet34 + GradCam + paligemma3b fine tunning + LIME
 ### 김소현, 유지훈, 이하림, 최요한, 최지혜, 한규범
+#### Dataset을 제외한 Github: https://github.com/No1HGB/BigFin9_DeepLearning 
 
 -----------------------------------------------------------------------
 
@@ -95,3 +96,22 @@
 - gradcam: result에서 파인튜닝을 위해 gradcam만 떼어낸 데이터
 - data.csv, data.xlsx : 최종 데이터인 data_answer_add를 생성하기 전 중간 과정 데이터입니다
 - data_answer_add : Claude 3.5를 이용해서 데이터 증강으로 생성된 최종 데이터입니다
+
+----------------------------------------------------------------------------------------------
+
+## 참고 자료 & 사이트
+
+- UnderstandingDeepLearning.pdf
+- https://www.kaggle.com/code/alkidiarete/ai-vs-real-using-fast-ai
+- https://www.kaggle.com/code/killa92/ai-generated-vs-real-images-classifier
+- https://www.kaggle.com/code/dima806/cifake-ai-generated-image-detection-vit
+- https://roboflow.com/model/resnet-34
+- https://huggingface.co/docs/transformers/en/model_doc/vit
+- https://velog.io/@leehyuna/Vision-TransformerViT
+- https://github.com/baotramduong/Explainable-AI-Scene-Classification-and-GradCam-Visualization/blob/main/Notebook.ipynb
+- https://analytics4everything.tistory.com/224
+- https://github.com/google-research/big_vision/blob/main/big_vision/configs/proj/paligemma/README.md
+- https://www.youtube.com/watch?v=XKBxZk48Le8&t=185s
+- https://huggingface.co/google/paligemma-3b-pt-224
+- https://beeny-ds.tistory.com/entry/LORA-%EB%85%BC%EB%AC%B8-%EC%89%BD%EA%B2%8C-%EC%84%A4%EB%AA%85%ED%95%98%EA%B8%B0
+- https://myeonghak.github.io/xai/XAI-LIME(Local-Interpretable-Model-agnostic-Explanation)-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/
