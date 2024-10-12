@@ -1,6 +1,8 @@
 # 빅데이터 핀테크 딥러닝 프로젝트 7조
 
 ## XAI: AI vs REAL Image - Resnet34 + GradCam + paligemma3b fine tunning + LIME
+## 프로젝트 PPT: https://drive.google.com/file/d/11yJOG-AcQ38F9lJA93WcTUXhMn6xkxE1/view?usp=sharing
+
 ### 김소현, 유지훈, 이하림, 최요한, 최지혜, 한규범
 #### Dataset을 제외한 Github: https://github.com/No1HGB/BigFin9_DeepLearning 
 
